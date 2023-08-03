@@ -18,9 +18,6 @@
    - Importing a Repo to Replit
    - Navigating Replit
    - Making/Saving Changes in Replit
-3. [💻 Coding Practice](#coding-practice-15)
-4. [✨ Closing & Shout Outs](#closing--shout-outs-5)
-
 
 ## ⌨️ IDEs
 
